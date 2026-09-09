@@ -33,8 +33,7 @@ The objective of this project is to practice:
 
 ## 📂 Project Structure
 
-Random Quote Generator/
-│
+Random Quote Generator
 ├── index.html
 ├── style.css
 ├── script.js
